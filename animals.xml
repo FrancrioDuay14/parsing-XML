@@ -42,19 +42,6 @@
         </habitats>
     </animal>
     <animal>
-        <name>Sheep</name>
-        <scientific_name>Ovis aries</scientific_name>
-        <diet>Herbivore</diet>
-        <average_lifespan>10 to 12 years</average_lifespan>
-        <habitats>
-            <habitat>China</habitat>
-            <habitat>Australia</habitat>
-            <habitat>India</habitat>
-            <habitat>India</habitat>
-            <habitat>India</habitat>
-        </habitats>
-    </animal>
-    <animal>
         <name>Deer</name>
         <scientific_name>Cervidae</scientific_name>
         <diet>Herbivore</diet>
@@ -68,19 +55,6 @@
         </habitats>
     </animal>
     <animal>
-        <name>Giraffe</name>
-        <scientific_name>Giraffa</scientific_name>
-        <diet>Herbivore</diet>
-        <average_lifespan>20 to 27 years</average_lifespan>
-        <habitats>
-            <habitat>Niger</habitat>
-            <habitat>Chad</habitat>
-            <habitat>Sudan</habitat>
-            <habitat>Cameroon</habitat>
-            <habitat> Central African Republic</habitat>
-        </habitats>
-    </animal>
-    <animal>
         <name>Bears</name>
         <scientific_name>Ursidae</scientific_name>
         <diet>Omnivore</diet>
@@ -91,32 +65,6 @@
             <habitat>Norway</habitat>
             <habitat>Russia</habitat>
             <habitat>United States</habitat>
-        </habitats>
-    </animal>
-    <animal>
-        <name>Chimpanzee</name>
-        <scientific_name>Pan troglodytes</scientific_name>
-        <diet>Omnivore</diet>
-        <average_lifespan>40 to 50 years</average_lifespan>
-        <habitats>
-            <habitat> Côte D'Ivoire</habitat>
-            <habitat>Guinea</habitat>
-            <habitat>Sierra Leone</habitat>
-            <habitat>Nigeria</habitat>
-            <habitat>Liberia</habitat>
-        </habitats>
-    </animal>
-    <animal>
-        <name>Badger</name>
-        <scientific_name>Taxidea Taxus</scientific_name>
-        <diet>Omnivore</diet>
-        <average_lifespan>Up to 24 years</average_lifespan>
-        <habitats>
-            <habitat>Sub-Saharan Africa</habitat>
-            <habitat>Saudi Arabia</habitat>
-            <habitat>Iran</habitat>
-            <habitat>Western Asia</habitat>
-            <habitat>Western North America</habitat>
         </habitats>
     </animal>
 </animals>
